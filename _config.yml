@@ -9,6 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 title                    : "About me"
+minimal_mistakes_skin    : dark
 title_separator          : "-"
 name                     : &name "Shafiq Abdul Rahman"
 description              : &description "Masters Student"
